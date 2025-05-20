@@ -37,7 +37,7 @@ The app also includes form validations, image preview, persistent storage using 
 
 
 - git clone https://github.com/Sumithra49/Registration-app.git
-- cd candidate-registration-app
+- cd Registration-app
 - Install dependencies:
 - npm install
 - Start the development server:
