@@ -36,7 +36,7 @@ The app also includes form validations, image preview, persistent storage using 
 - Clone the repository:
 
 
-- git clone https://github.com/your-username/candidate-registration-app.git
+- git clone https://github.com/Sumithra49/Registration-app.git
 - cd candidate-registration-app
 - Install dependencies:
 - npm install
